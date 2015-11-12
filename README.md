@@ -1,2 +1,2 @@
 # spacerescue
-A game about rescueing people floating in space
+A game about rescuing people floating in space
