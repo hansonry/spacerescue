@@ -750,22 +750,16 @@ Compiling module com.space_rescue.game.GdxDefinitionSuperdev
             not emitting code for accessing method StringIndexOutOfBoundsException in class 'java.lang.StringIndexOutOfBoundsException.class, either in java.* or GWT related class
             not emitting code for accessing method StringIndexOutOfBoundsException in class 'java.lang.StringIndexOutOfBoundsException.class, either in java.* or GWT related class
             410 types reflected
-   Adding '1' new generated units
-      Validating units:
-         Warnings in '/home/dista/space_game/html/build/gwt/work/com.space_rescue.game.GdxDefinitionSuperdev/compile-1/gen/com/badlogic/gwtref/client/IReflectionCacheGenerated.java'
-            See snapshot: /tmp/com.badlogic.gwtref.client.IReflectionCacheGenerated2647450510713717498.java
-         Ignored 1 unit with compilation errors in first pass.
-Compile with -strict or with -logLevel set to TRACE or DEBUG to see all errors.
    Compiling 1 permutation
       Compiling permutation 0...
       Source Maps Enabled
    Compile of permutations succeeded
-Linking into /home/dista/space_game/html/build/gwt/work/com.space_rescue.game.GdxDefinitionSuperdev/compile-1/war/html; Writing extras to /home/dista/space_game/html/build/gwt/work/com.space_rescue.game.GdxDefinitionSuperdev/compile-1/extras/html
+Linking into /home/dista/space_fork/spacerescue/html/build/gwt/work/com.space_rescue.game.GdxDefinitionSuperdev/compile-1/war/html; Writing extras to /home/dista/space_fork/spacerescue/html/build/gwt/work/com.space_rescue.game.GdxDefinitionSuperdev/compile-1/extras/html
    Invoking Linker Cross-Site-Iframe
       Ignoring the following script tags in the gwt.xml file
 soundmanager2-setup.js
 soundmanager2-jsmin.js
 
    Link succeeded
-   Compilation succeeded -- 33.592s
-Compile completed in 34972 ms
+   Compilation succeeded -- 13.552s
+Compile completed in 13946 ms
